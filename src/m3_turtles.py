@@ -111,12 +111,17 @@ matt.forward(200)
 #   As always, test by running the module.
 #
 ########################################################################
+JA =rg.SimpleTurtle()
+JA.backward(100)
+JA.right(90)
+JA.backward(100)
 JJ= rg.SimpleTurtle('turtle')
-JJ.pen = rg.Pen('blue', 100)
+JJ.pen = rg.Pen('blue', 50)
+JJ.speed = 10
 JJ.backward(100)
 JJ.right(90)
 JJ.backward(100)
-JJ.speed(100) 
+
 ########################################################################
 #
 # DONE: 5.
