@@ -116,7 +116,7 @@ JJ.pen = rg.Pen('blue', 100)
 JJ.backward(100)
 JJ.right(90)
 JJ.backward(100)
-JJ.speed(100)
+JJ.speed(100) 
 ########################################################################
 #
 # DONE: 5.
