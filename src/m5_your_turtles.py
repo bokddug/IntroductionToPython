@@ -31,7 +31,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 import rosegraphics as rg
 window = rg.TurtleWindow()
 window.delay(50)
-
+ 
 JA= rg.SimpleTurtle('turtle')
 JJ= rg.SimpleTurtle('turtle')
 
