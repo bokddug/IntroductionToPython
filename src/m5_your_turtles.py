@@ -53,3 +53,7 @@ JJ.draw_circle(50)
 JJ.forward(50)
 JJ.left(50)
 JJ.backward(100)
+JJ.left(50)
+JJ.forward(100)
+
+window.close_on_mouse_click()
